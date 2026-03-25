@@ -1,0 +1,12 @@
+{
+  "name": "easedup",
+  "version": "1.0.0",
+  "description": "K-12 education assistant for creating curriculum-aligned teaching resources including lesson plans, units of work, assessments, and more",
+  "author": {
+    "name": "EasedUP",
+    "email": "hello@easedup.com",
+    "url": "https://www.easedup.com"
+  },
+  "homepage": "https://www.easedup.com",
+  "keywords": ["education", "k-12", "curriculum", "lesson-plans", "teaching", "assessment", "australian-curriculum", "common-core", "uk-curriculum"]
+}

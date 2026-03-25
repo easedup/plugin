@@ -1,0 +1,16 @@
+{
+  "mcpServers": {
+    "easedup-acv9": {
+      "type": "http",
+      "url": "https://acv9.easedup.com/mcp"
+    },
+    "easedup-common-core": {
+      "type": "http",
+      "url": "https://common-core.easedup.com/mcp"
+    },
+    "easedup-uk-curriculum": {
+      "type": "http",
+      "url": "https://uk-curriculum.easedup.com/mcp"
+    }
+  }
+}
