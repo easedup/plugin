@@ -1,5 +1,5 @@
 ---
-description: Search curriculum standards from EasedUP (Australian Curriculum v9, Common Core, UK National Curriculum). Usage: /easedup:search-curriculum [topic, year level, curriculum]
+description: "Search curriculum standards from EasedUP (Australian Curriculum v9, Common Core, UK National Curriculum). Usage: /easedup:search-curriculum [topic, year level, curriculum]"
 ---
 
 Search for curriculum standards related to: $ARGUMENTS

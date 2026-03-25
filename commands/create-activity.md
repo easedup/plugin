@@ -1,5 +1,5 @@
 ---
-description: Create a hands-on learning activity for K-12 students. Usage: /easedup:create-activity [activity type, topic, year level]
+description: "Create a hands-on learning activity for K-12 students. Usage: /easedup:create-activity [activity type, topic, year level]"
 ---
 
 Create a learning activity for: $ARGUMENTS

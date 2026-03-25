@@ -1,5 +1,5 @@
 ---
-description: Create a formative or summative assessment with rubric. Usage: /easedup:create-assessment [topic, subject, year level, formative/summative]
+description: "Create a formative or summative assessment with rubric. Usage: /easedup:create-assessment [topic, subject, year level, formative/summative]"
 ---
 
 Create an assessment for: $ARGUMENTS

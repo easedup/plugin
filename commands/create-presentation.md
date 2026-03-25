@@ -1,5 +1,5 @@
 ---
-description: Create a classroom teaching presentation with slides. Usage: /easedup:create-presentation [topic, subject, year level, number of slides]
+description: "Create a classroom teaching presentation with slides. Usage: /easedup:create-presentation [topic, subject, year level, number of slides]"
 ---
 
 Create a classroom presentation for: $ARGUMENTS

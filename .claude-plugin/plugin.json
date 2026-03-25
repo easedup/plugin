@@ -8,5 +8,7 @@
     "url": "https://www.easedup.com"
   },
   "homepage": "https://www.easedup.com",
+  "repository": "https://github.com/easedup/plugin",
+  "license": "MIT",
   "keywords": ["education", "k-12", "curriculum", "lesson-plans", "teaching", "assessment", "australian-curriculum", "common-core", "uk-curriculum"]
 }

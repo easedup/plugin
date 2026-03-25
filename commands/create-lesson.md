@@ -1,5 +1,5 @@
 ---
-description: Create a curriculum-aligned lesson plan. Usage: /easedup:create-lesson [topic, subject, year level]
+description: "Create a curriculum-aligned lesson plan. Usage: /easedup:create-lesson [topic, subject, year level]"
 ---
 
 Create a detailed lesson plan for: $ARGUMENTS

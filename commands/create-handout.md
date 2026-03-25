@@ -1,5 +1,5 @@
 ---
-description: Create a student handout or worksheet. Usage: /easedup:create-handout [topic, subject, year level, purpose]
+description: "Create a student handout or worksheet. Usage: /easedup:create-handout [topic, subject, year level, purpose]"
 ---
 
 Create a student handout or worksheet for: $ARGUMENTS

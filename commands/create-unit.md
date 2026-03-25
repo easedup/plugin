@@ -1,5 +1,5 @@
 ---
-description: Create a unit of work spanning multiple lessons. Usage: /easedup:create-unit [topic, subject, year level, duration]
+description: "Create a unit of work spanning multiple lessons. Usage: /easedup:create-unit [topic, subject, year level, duration]"
 ---
 
 Create a unit of work for: $ARGUMENTS

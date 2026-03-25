@@ -1,5 +1,5 @@
 ---
-description: Create a concise student factsheet covering key concepts. Usage: /easedup:create-factsheet [topic, subject, year level]
+description: "Create a concise student factsheet covering key concepts. Usage: /easedup:create-factsheet [topic, subject, year level]"
 ---
 
 Create a factsheet for: $ARGUMENTS
